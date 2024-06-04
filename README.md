@@ -6,8 +6,8 @@ Secure and scalable file processing pipeline built with React and AWS. Users int
 
 ## System Architecture
 
-![system](![image](https://github.com/ahuangg/file_processing_pipeline/assets/98438095/cc2969e0-4384-43fb-a61a-4e4759b9ec29)
-)
+![system](https://github.com/ahuangg/file_processing_pipeline/assets/98438095/09f94173-8fb1-4f69-bc7c-0a121b8b9c42)
+
 
 ## Requirements
 
@@ -63,8 +63,8 @@ The following **aditional** features are implemented:
 
 -   visit [amplify](https://us-east-1.console.aws.amazon.com/amplify/home?region=us-east-1#/) in aws console
 -   if app does not build automatically click run build  
-    ![amplify image](![image](https://github.com/ahuangg/file_processing_pipeline/assets/98438095/9487d155-8f55-4c14-b951-2084fcfb74ff)
-)
+    ![image](https://github.com/ahuangg/file_processing_pipeline/assets/98438095/8ffd42e3-e409-4d35-a5f6-1c6d0511812f)
+
 -   open link provided by Amplify after app is deployed
 
 ## Preview
